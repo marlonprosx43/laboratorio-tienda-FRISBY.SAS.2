@@ -17,6 +17,6 @@
       false → los eventos se envían normalmente, sin debug_mode.
    ========================================================================== */
 window.TIENDA_CONFIG = {
-  GA_MEASUREMENT_ID: "G-XXXXXXXXXX", // <-- PEGA AQUÍ TU ID DE MEDICIÓN (G-...)
+  GA_MEASUREMENT_ID: "G-33KL83DSL9", // <-- PEGA AQUÍ TU ID DE MEDICIÓN (G-...)
   DEBUG_MODE: true                   // <-- true = modo depuración (DebugView)
 };
